@@ -10,6 +10,7 @@ html, body {
     font-family: 'Poppins', sans-serif;
     background-color: #f1157d;
     text-align: center;
+    align-items: center;
     padding: 15px 20px;
 }
 
@@ -29,10 +30,11 @@ h1 {
     white-space: nowrap;
     color: #ffffff;
     margin: 0;
+    font-weight: 700;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.4em;
     color: #ffffff;
     margin-top: 5px;
     font-weight: 600;
@@ -48,6 +50,6 @@ h2 {
         font-size: 4vw;
     }
     h2 {
-        font-size: 1.4vw;
+        font-size: 1.5vw;
     }
 }
