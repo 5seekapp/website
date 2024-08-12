@@ -16,6 +16,7 @@ html, body {
 .text-section {
     max-width: 600px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .logo {
@@ -27,13 +28,15 @@ h1 {
     font-size: 9vw;
     white-space: nowrap;
     color: #ffffff;
-    margin: 0
+    margin: 0;
 }
 
 h2 {
     font-size: 1.5em;
     color: #ffffff;
     margin-top: 5px;
+    font-weight: 600;
+    font-style: normal;
 }
 
 /* Adjustments for larger screens */
